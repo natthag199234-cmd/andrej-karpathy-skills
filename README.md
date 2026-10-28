@@ -1,4 +1,4 @@
-# Karpathy-Inspired Claude Code Guidelines
+97f373a1e387dd59dbeab195320116c2d86e51ac# Karpathy-Inspired Claude Code Guidelines
 
 > Check out my new project [Multica](https://github.com/multica-ai/multica) — an open-source platform for running and managing coding agents with reusable skills.
 >
